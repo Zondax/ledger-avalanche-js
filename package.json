@@ -37,7 +37,6 @@
   ],
   "dependencies": {
     "@ledgerhq/hw-app-eth": "6.45.16",
-    "@ledgerhq/hw-transport": "6.31.9",
     "@ledgerhq/types-live": "6.82.0",
     "bs58": "6.0.0"
   },
